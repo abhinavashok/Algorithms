@@ -1,4 +1,4 @@
-package lists;
+package prologproblems.lists;
 
 public class Main {
 
