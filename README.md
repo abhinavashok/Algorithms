@@ -1,4 +1,1 @@
-# Prolog-Problems
-Ninety-Nine Prolog Problems
-
-Trying to solve the problems at https://sites.google.com/site/prologsite/prolog-problems
+This respository contains algorithms and data structures solutions.
