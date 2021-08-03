@@ -1,0 +1,6 @@
+assignment 2 :  changing document shape
+count all the movies whose title contains only a single word.
+
+-- project title 
+    -- split title using space and add to a new field title_words
+-- count : iterate over the last list and increment count by 1 if title_words size==1
